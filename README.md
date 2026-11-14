@@ -4,4 +4,4 @@
 
 - 페이지: https://ezbklee.github.io/kokkok-policy/
 - 원본: 앱 저장소의 `docs/privacy/index.html` (이 저장소는 공개용 사본)
-- 문의: 이 저장소의 Issues
+- 문의: godappmaker@gmail.com
